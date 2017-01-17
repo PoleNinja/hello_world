@@ -21,7 +21,7 @@ namespace DummyVSProject.Controllers
         public AccountController()
         {
         }
-
+        //ajout blablatest COMMIT nigga
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
         {
             UserManager = userManager;

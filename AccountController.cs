@@ -22,6 +22,7 @@ namespace DummyVSProject.Controllers
         {
         }
         //ajout blablatest COMMIT nigga
+        //CECI EST UN TEST SECOND COMPTE GITHUB POLENINJA
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
         {
             UserManager = userManager;
